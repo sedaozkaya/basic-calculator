@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Simple Calculator created by Seda");
+
         Scanner input= new Scanner(System.in);
         int n1,n2,select;
         System.out.println("1.sayıyı gir");
